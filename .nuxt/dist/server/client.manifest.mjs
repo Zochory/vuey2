@@ -1,0 +1,1 @@
+export { default } from "file:///Volumes/Samsung%20SSD%20T7/Qlaus/Vue-component/vuey2/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
